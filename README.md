@@ -10,4 +10,4 @@ About UX/UI, design, data structure and noSQL database.
 
 📫 How to reach me: <br/>
 [LinkedIn](https://www.linkedin.com/in/carolina-quiterio-978419188/) <br/>
-[Twitter](https://instagram.com/carolquiterio_)
+[Instagram](https://instagram.com/carolquiterio_)
