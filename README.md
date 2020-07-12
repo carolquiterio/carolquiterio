@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:computer: High school student 🌎 São Paulo ✈️ Brazil
+
 - 🔭 I’m currently working with javascipt and java.
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
