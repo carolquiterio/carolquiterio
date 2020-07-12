@@ -8,12 +8,7 @@ Frontend Applications with React Native or React, Backend Applications with Node
 🌱 I’m currently learning 
 About UX/UI, design, data structure and noSQL database.
 
-📫 How to reach me: 
+📫 How to reach me: <br/>
 Feel free to contact me! I love to connect with people. 
-
  :camera: [@carolquiterio_](https://instagram.com/carolquiterio_)
  🏢 [LinkedIn](https://www.linkedin.com/in/carolina-quiterio-978419188/)
-
-⚡ Fun fact: 
-I love animals.
-
