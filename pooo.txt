@@ -1,0 +1,23 @@
+olá pessoal, esse é o mvp do time 11, ao fazer login no app o usuário entra no feed de good news que tem a frase motivacional do dia e noticias de aquecer o coração. Na parte superior o usuário pode criar um grupo, começar uma comunidade de apoio ou gravar videos e lives e do outro lado são as configuracao do perfil. Nesta tela tem a página de escrever/ou falar no diario pessoal e até selecionar o humor do momento. Nesse campo é possível pesquisar novos conteúdos e aqui são as categorias de comunidades de apoio e dicas, nesses botoes o usário pode juntar-se a um grupo de maneira anonima ou ver detalhes sobre uma dica.Nessa pagina de progresso o usuário pode ver anotações feitas e histórico de humor. E aqui tem a página de emergência, onde o usuário pode entrar em contato com autoridades.
+
+
+
+A pandemia do Corona Virus atingiu o mundo todo, como alternativa de conter o avanço do Vírus, o isolamento social se torno a principal medida.
+
+O ser humano é naturalmente sociável, então o que era para ser uma medida de prevenção, resultou em uma série de complicações significativas na saúde mental das pessoas, que já se encontram abaladas por questões financeiras, falta de perspectiva de vacinas e o medo de contrair o virus em si.
+
+Com isso, doenças como Depressão e Ansiedade crônica, consideradas o mal do século, tiveram ocorrências com grande aumento. Além dos casos extremos como até mesmo suicídio. 
+
+Pensando nisso, criamos o Happ, um app para integração e transformação!
+Nele vc encontra dicas de saúde, exercícios, cursos e frases motivacionais.
+
+Pode formar grupos de apoio como , e comunidades baseado em interesses em comum.
+
+O Happ tmb possui um diário virtual, nele vc pode escrever o que estiver sentindo, uma carta pra alguém? Um poema? Uma música? O que vc quiser.
+Além de poder fazer tudo isso em áudio, cantando, gritando ou quem sabe rindo à toa? 
+
+Por meio da tecnologia de processamento de linguagem natural e reconhecimento de emoções fornecidas pela IBM nosso nosso aplicativo consegue ajudar diretamente as pessoas cultivando um ambiente agradável.
+
+A tecnologia transformando a maneira como nos conectamos com outras pessoas, mesmo a distância, mesmo em meio a pandemia. 
+
+Vc é importante, vc é especial, agora é Happ!
