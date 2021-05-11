@@ -6,8 +6,8 @@
 
 ## I'm a Systems Development student 💻 in Brazil 🌎
 
-- 🔭 I’m currently working on Frontend Applications with React Native, React, Styled components, Backend Applications with Node APIs using Express and some projects with Java, Python and Flutter.  
+- 🔭 I’m currently working on Mobile Applications with Kotlin and React Native, Backend Applications with Node and some projects with Java, Python and Frontend frameworks.  
 
-- 🌱 I’m currently learning about data structure, and Node APIs. Also, I'm learning something about UX/UI, design and game development .
+- 🌱 I’m currently learning about data structure, kotlin and good good code practices. Also, I'm learning something about UX/UI, design and game development.
 
 - ⚡ Fun fact: I love to learn new things, feel free to connect with me so we can share some ideas.
