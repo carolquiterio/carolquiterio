@@ -6,7 +6,7 @@
 
 ## I'm a Systems Development student 💻 in Brazil 🌎
 
-- 🔭  I’m currently working on Mobile Applications with Kotlin, React Native and Flutter, Backend Applications with Node and some projects with Java and Frontend frameworks.  
+- 🔭  I’m currently working on Mobile Applications with Kotlin, Backend Applications with Java and some projects with C.  
 
 - 🌱  I’m currently learning about data structure, kotlin and good code practices. Also, I'm learning something about UX/UI, design and game development.
 
