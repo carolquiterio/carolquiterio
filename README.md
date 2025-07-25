@@ -20,4 +20,5 @@
 
 ### ⚡ Fun facts about me:
 - I love exploring new ideas and technologies — let's connect and build something cool together!  
-- I’m also into pets 🐾, sports 🏀, and experimenting in the kitchen 🍝  
+- I’m also into pets 🐾, sports 🏀, and experimenting in the kitchen 🍝
+- I’m passionate about Tetris (my nerdiest trait!)
