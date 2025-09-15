@@ -10,8 +10,7 @@
 
 ### 💻 What I’m working on:
 - **iOS apps with Swift** — building clean and beautiful apps using SwiftUI and UIKit. I like working with animations, custom UI, and exploring features like CoreML and Metal for creative use cases.
-- **Android apps with Kotlin** — crafting smooth interfaces with Jetpack Compose and keeping projects organized with modular structure and clean architecture principles.
-- **Academic projects with Java and C** — developing small systems and simulations, mostly around optimization models, algorithms, and automation.
+- **Academic projects with C or C++** — developing small systems and simulations, mostly around optimization models, algorithms, and automation.
 
 ### 🌱 What I’m learning:
 - **Data structures and algorithms** — studying for programming competitions, with a focus on graphs, recursion, dynamic programming, and problem-solving strategies.
