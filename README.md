@@ -6,10 +6,10 @@
 
 ---
 
-🎓 I'm a Software Development student from Brazil passionate about building thoughtful and impactful applications.
+🎓 I'm a Software Enginner student from Brazil passionate about building apps.
 
 ### 💻 What I’m working on:
-- **iOS apps with Swift** — building clean and beautiful apps using SwiftUI and UIKit. I like working with animations, custom UI, and exploring features like CoreML and Metal for creative use cases.
+- **iOS apps with Swift** — building fun and beautiful apps using SwiftUI and UIKit. I like working with animations, custom UI, and exploring features like CoreML and Metal for creative use cases.
 - **Academic projects with C or C++** — developing small systems and simulations, mostly around optimization models, algorithms, and automation.
 
 ### 🌱 What I’m learning:
